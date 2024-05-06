@@ -2,7 +2,7 @@ apiVersion: v2
 name: esphome
 description: A Helm chart to instal ESPHome in kubernetes
 type: application
-version: "2024.4.2"
+version: "2024.4.2+Chart1"
 appVersion: "2024.4.2"
 keywords:
   - esp32
