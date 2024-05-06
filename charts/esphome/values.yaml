@@ -3,7 +3,7 @@ image:
   repository: "ghcr.io/esphome/esphome"
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "2024.4.2"
+  tag: ""
 
 imagePullSecrets: []
 nameOverride: ""
